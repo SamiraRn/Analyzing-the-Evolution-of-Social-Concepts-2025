@@ -30,13 +30,3 @@ Significant Semantic Drift: The largest semantic shift occurred for the concept 
 
 Stable yet Evolving Relationships: While the core relationships between freedom, justice, and democracy remained strong, there was a subtle, gradual decline in their similarity over time, indicating nuanced divergence in how these concepts interact in modern discourse.
 
-📝 Citation
-
-@inproceedings{rabinataj2025socialconcepts,
-  title={Analyzing the Evolution of Social Concepts Using Temporal Embedding Models},
-  author={Rabinataj, Seyedeh Samira},
-  booktitle={4th International Conference on New Research \& Achievements in Science, Engineering \& Technologies},
-  year={2025},
-  month={July},
-  organization={University of Turin}
-}
