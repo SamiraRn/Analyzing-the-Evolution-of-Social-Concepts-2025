@@ -1,6 +1,6 @@
 Analyzing the Evolution of Social Concepts Using Temporal Embedding Models 📈
 
-🚧 Status: Code is currently unavailable / Pending reconstruction. This repository serves as a placeholder for the paper's methodology and findings. 🚧
+🚧 Status: This repository serves as a placeholder for the paper's methodology and findings. 🚧
 
 This repository contains the overview and theoretical framework for the paper "Analyzing the Evolution of Social Concepts Using Temporal Embedding Models", presented at the 4th International Conference on New Research & Achievements in Science, Engineering & Technologies (13 July 2025).
 
